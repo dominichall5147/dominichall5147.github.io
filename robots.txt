@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://dominichall5147.github.io/dominichall5147_github_io_zp532_11.txt
+Sitemap: https://dominichall5147.github.io/dominichall5147_github_io_zp532_16.txt
+Sitemap: https://dominichall5147.github.io/dominichall5147_github_io_zp532_20.txt
+Sitemap: https://dominichall5147.github.io/dominichall5147_github_io_zp532_25.txt
+Sitemap: https://dominichall5147.github.io/dominichall5147_github_io_zp532_6.txt
